@@ -1,6 +1,6 @@
 ![eba13fd647fca791305b76bf0d6c352c](https://user-images.githubusercontent.com/86901315/124372565-b4bf8980-dca8-11eb-9fd6-fb1f811d8f05.jpg)
 <h1 align="center">Hi 👋, I'm Deepak Kumar Mahato</h1>
-<h3 align="center">A passionate frontend developer and java developer from India</h3>
+<h3 align="center">A passionate frontend and dot net developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak9123&label=Profile%20views&color=0e75b6&style=flat" alt="deepak9123" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on the sparks foundation **online banking system**
 
-- 🌱 I’m currently learning **Core java, web development**
+- 🌱 I’m currently learning **Dot Net Web API, web development**
 
 - 📫 How to reach me **deepakkumarrvscet@gmail.com**
 
