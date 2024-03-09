@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/deepakkumar" target="blank"><img src="https://img.shields.io/twitter/follow/deepakkumar?logo=twitter&style=for-the-badge" alt="deepakkumar" /></a> </p>
 
-- 🔭 I’m currently working on the sparks foundation **online banking system**
+- 🔭 I’m currently working at Yama Technologies as a **Full Stack Developer**
 
-- 🌱 I’m currently learning **Dot Net Web API, web development**
+- 🌱 I’m currently learning **Dot Net Web API, Angular, React JS and Elastic Search**
 
 - 📫 How to reach me **deepakkumarrvscet@gmail.com**
 
