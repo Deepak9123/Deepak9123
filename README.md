@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Dot Net Web API, Angular, React JS and Elastic Search**
 
-- 📫 How to reach me **deepakkumarrvscet@gmail.com**
+- 📫 How to reach me **deepakmahato.vercel.app**
 
 - ⚡ Fun fact **I think I am funny XD**
 
