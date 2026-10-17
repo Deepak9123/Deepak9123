@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar Mahato</h1>
-<h3 align="center">A passionate frontend and dot net developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=deepak9123&label=Profile%20views&color=0e75b6&style=flat" alt="deepak9123" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeepak9123&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=true" alt="Profile Views" />
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=deepak9123" alt="deepak9123" />
+    <img src="https://github-profile-trophy.vercel.app/?username=deepak9123&theme=flat&no-frame=true&no-bg=true" alt="GitHub Profile Trophy" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://twitter.com/deepakkumar" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/deepakkumar?logo=x&style=for-the-badge" alt="deepakkumar" />
+    <img src="https://img.shields.io/twitter/follow/deepakkumar?logo=x&style=for-the-badge" alt="Follow on Twitter" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 <p align="left">
   <a href="https://twitter.com/deepakkumar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepakkumar" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/deepak-kumar-mahato/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak kumar mahato" height="30" width="40" /></a>
-  <a href="https://instagram.com/deepak_mahato_07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepak_mahato_07" height="30" width="40" /></a>
+  <a href="https://instagram.com/deepakmahato_007" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepak_mahato_07" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/frustrated_engineer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="frustrated_engineer" height="30" width="40" /></a>
 </p>
 
