@@ -30,8 +30,6 @@
   <a href="https://www.youtube.com/@frustrated_engineer_blogs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="frustrated_engineer" height="30" width="40" /></a>
 </p>
 
-### Languages and Tools:
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
