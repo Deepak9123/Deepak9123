@@ -17,17 +17,17 @@
   </a>
 </p>
 
-- 🔭 I’m currently working at Yama Technologies as a **Full Stack Developer**
+- 🔭 I’m currently working at PwC India as an **Associate**
 - 🌱 I’m currently learning **Dot Net Web API, Angular, React JS and Elastic Search**
 - 📫 How to reach me **[deepakmahato.vercel.app](https://deepakmahato.vercel.app/)**
 - ⚡ Fun fact **I think I am funny XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/deepakkumar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepakkumar" height="30" width="40" /></a>
+  <a href="https://x.com/deepak04900276" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepakkumar" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/deepak-kumar-mahato/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak kumar mahato" height="30" width="40" /></a>
   <a href="https://instagram.com/deepakmahato_007" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepak_mahato_07" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/frustrated_engineer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="frustrated_engineer" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@frustrated_engineer_blogs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="frustrated_engineer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
