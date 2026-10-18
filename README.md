@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer · Associate at PwC · India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepak9123&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=deepak9123&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square&cache_bust=20261018" alt="Profile views" />
   <a href="https://x.com/deepak04900276">
     <img src="https://img.shields.io/badge/Follow%20on-X-000000?logo=x&style=flat-square" alt="Follow me on X" />
   </a>
